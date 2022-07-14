@@ -1,0 +1,13 @@
+# Generated folders
+9e2c87e8beeb88be/
+.vscode/
+
+# Compiled Byte code
+BubbleSortLargeNums.class
+StopWatch.class
+BubbleSortRandom.class
+GFG.class
+PerformanceJava.class
+
+# Nodes Modules
+node_modules/
